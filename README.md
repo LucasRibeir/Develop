@@ -14,4 +14,5 @@ Pacotes => Readme, controller, entity, loginService, repository e application;
 
 Para rodar a aplicação=> Classe Application => Run as=> JavaApplication.
 
-OBS: Ao baixar o projeto na IDE, clicar com botao direiro no projeto, depois em Maven e depois em update project.
+
+Caminho das rotas dos métodos => Moviecontroller, LoginController 
