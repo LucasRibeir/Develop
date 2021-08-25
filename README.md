@@ -7,3 +7,9 @@ Para Rodar o projeto só rodar a classe "Application.java" , a partir dai o Spri
 Foi criado os serviços de Login através do framework "Spring Security" para segurança e validação de dados. Na classe "LoginController" tem todos os métodos e o caminho para efetuar o login, caso não tenho login, o usuário irá ser encaminhado para página de registro, e depois efetuar a o registro, o usuário voltará para página de login.
 
 *Tecnologias=> Spring Boot, Spring Security, Hibernate, Mysql, Rest e Maven.
+
+
+
+Pacotes => Readme, controller, entity, loginService, repository e application;
+
+Para rodar a aplicação=> Classe Application => Run as=> JavaApplication.
